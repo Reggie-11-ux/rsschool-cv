@@ -14,7 +14,7 @@ I am 14 years old. I study at school
 
 ### Languages
 - Russian
-- English
+- English (B2)
 
 ### Code Examples
 ```
